@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhranil Das</h1>
-<h3 align="center">I am a Data Analyst/Engineer interested in Machine Learning and AI. My skills include Python, R, SQL, and Analytics.</h3>
+<h3 align="center">I am a Data Analyst/Engineer interested in Machine Learning and AI. 
+  My skills include Python, R, SQL, and Analytics.</h3>
 I'm seeking collaboration on projects that focuses on **ETL pipelining with cloud services, real-time data streaming, big data engineering, financial analysis, and data analytics. My interests include data warehousing, data mining, machine learning, predictive analytics, and business intelligence.**
 
 
