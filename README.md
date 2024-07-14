@@ -7,7 +7,7 @@ I'm seeking collaboration on projects that focuses on **ETL pipelining with clou
 
 - 👨‍💻 All of my repositories are available at [https://github.com/dassubhranil?tab=repositories](https://github.com/dassubhranil?tab=repositories)
 
-- 📫 How to reach me **dassubhranil1998@gmail.com**
+- 📫 How to reach me [Email](mailto:dassubhranil1998@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://dassubhranil.github.io/resume/Subhranil%20Das-%20Data%20Engineer.pdf)
 
