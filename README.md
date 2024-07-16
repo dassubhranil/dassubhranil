@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subhranil Das</h1>
+<h1 align="center">Hi, I'm Subhranil Das</h1>
 <h3 align="center">I am a Data Analyst/Engineer interested in Machine Learning and AI. 
  <h3 align="center">My skills include Python, R, SQL, and Analytics.</h3>
 
