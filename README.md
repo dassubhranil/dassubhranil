@@ -7,7 +7,7 @@ I'm seeking collaboration on projects that focuses on **ETL pipelining** with cl
 
 
 
-- 👨‍💻 All of my repositories are available at [Here](https://github.com/dassubhranil?tab=repositories)
+- 👨‍💻 All of my repositories are available at [here](https://github.com/dassubhranil?tab=repositories).
 
 - 📫 How to reach me [Email](mailto:dassubhranil1998@gmail.com)
 
