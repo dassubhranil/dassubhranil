@@ -11,7 +11,7 @@ I'm seeking collaboration on projects that focuses on **ETL pipelining** with cl
 
 - 📫 How to reach me [Email](mailto:dassubhranil1998@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://dassubhranil.github.io/resume/Subhranil%20Das-%20Data%20Engineer.pdf)
+- 📄 Know about my experiences [Resume](https://dassubhranil.github.io/resume/Subhranil%20Das%20-%20Data%20Engineer.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
